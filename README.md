@@ -43,7 +43,7 @@ In this project, I try to answer the following questions:
 
 All the SQL queries used in this project are available in the analysis file:
 
- - [`Hr_analysis.sql`](Hr_analysis.sql)
+ - [`Hr_analysis.sql`](Hr analysis.sql)
 
 This script includes:
 - Overall employee and attrition summary (counts + attrition rate)
