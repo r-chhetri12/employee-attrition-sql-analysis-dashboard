@@ -43,7 +43,7 @@ In this project, I try to answer the following questions:
 
 All the SQL queries used in this project are available in the analysis file:
 
- - [`Hr_analysis.sql`](Hr analysis.sql)
+ - [`Hr_analysis.sql`](Hr_analysis.sql)
 
 This script includes:
 - Overall employee and attrition summary (counts + attrition rate)
@@ -60,7 +60,7 @@ I used **Power BI** to build an interactive dashboard on top of the SQL results.
 
 Power BI file:
 
-- `HR_Report.pbix`  
+- [`HR_Report.pbix`](HR_Report.pbix)  
 
 You can download this file from the repository and open it in **Power BI Desktop** to explore the visuals and filters.
 
