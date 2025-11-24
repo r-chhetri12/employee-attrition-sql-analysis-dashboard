@@ -124,6 +124,6 @@ Looking at job roles, **Laborer (255), Technician (182), Engineer (152), and For
 
 ---
 ## Dashboard img
--[`Hr_dashboard.png`](Hr_dashboard.png)
+![`Hr_dashboard.png`](Hr_dashboard.png)
 
 
