@@ -87,6 +87,10 @@ The dashboard includes views like:
   - Attrition by WLB score
   - Job role vs Satisfaction vs Attrition
 
+- **slicer/Filter**
+   - Department
+   - Gender
+   - Employee Type
 ---
 
 ##  Key Insights 
@@ -119,6 +123,7 @@ Looking at job roles, **Laborer (255), Technician (182), Engineer (152), and For
 - **GitHub** – for version control and portfolio hosting
 
 ---
-
+## Dashboard img
+-[`Hr_dashboard.png`](Hr_dashboard.png)
 
 
