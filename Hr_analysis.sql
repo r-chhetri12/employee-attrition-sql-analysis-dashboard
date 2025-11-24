@@ -49,7 +49,7 @@ FROM Emp
 GROUP BY Year_At_Company
 ORDER BY Year_At_Company;
 
--- Q5. Is poor work–life balance contributing to attrition?
+-- Q5. Is poor workâ€“life balance contributing to attrition?
 --     - How many employees fall into each WLB score?
 --     - How does attrition rate change as WLB improves or worsens?
 --     - Do employees with low WLB scores leave significantly more?
